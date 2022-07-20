@@ -10,3 +10,12 @@ git clone https://github.com/ArchDiego/my-dotfiles.git
 cd my-dotfiles
 sh autoInstaller.sh
 ```
+
+### Captures
+
+#### Bspwm 
+![](./captures/bspwm.png)
+
+
+#### Qtile 
+![](./captures/qtile1.png)

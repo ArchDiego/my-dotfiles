@@ -2,7 +2,7 @@ echo "Ejecutando script"
 echo "Instalando qtile"
 
 # Instalar dependencias
-pacman -S qtile pacman-contrib python python-pip pulseaudio kitty --noconfirm 
+pacman -S qtile pacman-contrib python python-pip pulseaudio kitty picom --noconfirm 
 yay -S nerd-fonts-ubuntu-mono --noconfirm
 pip install psutil
 

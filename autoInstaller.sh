@@ -8,6 +8,7 @@ pip install psutil
 
 cp -r ./kitty/ ~/.config/
 cp -r ./qtile/ ~/.config/
+cp -r ./picom/ ~/.config/
 cp -r ./Wallpapers/ $HOME/Pictures/
 
 
